@@ -1,9 +1,11 @@
-Hi all 👋
+### Hi all 👋
 
-I am a third year PhD student 🎓 in tropical forest bioeconomics at the University of french Guiana 🇬🇫 under the supervision of Sylvain Caurla ([UMR BETA](https://beta-economics.fr/)). I do mostly research at the intersection between economics (ecosystem service evaluation), tropical forest modelling and forestry.
+**I'm Guillaume**, a forest bioeconomist at The French National Forest Office [(ONF)](https://www.onf.fr/) in the R&D department.
+
+I am currently working on a seemless integration of coupled biophysical & market models. The goal is to provide expected wood-market trajectories in mainland France and french overseas territories under climate changes scenarios.
 
 More info at: https://guillaume-salzet.netlify.app/
 
+[![Static Badge](https://img.shields.io/badge/orcid-grey?style=for-the-badge&logo=orcid&link=https%3A%2F%2Forcid.org%2F0000-0003-4548-5673)](https://orcid.org/0000-0003-4548-5673)
 
-![Paracou_MNS_tree](https://github.com/gsalzet/gsalzet/assets/55494561/a09010ae-6d8c-433d-92c4-fb7cc3e84ff3)
-*Voxelised canopy of Paracou forest as simulated in [TROLL simulator](https://doi.org/10.1111/2041-210X.14215) (generated with [Aerialod](https://ephtracy.github.io/index.html?page=aerialod))*
+
