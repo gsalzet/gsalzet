@@ -2,7 +2,7 @@
 
 **I'm Guillaume**, a forest bioeconomist at The French National Forest Office ([ONF](https://www.onf.fr/)) in the R&D department.
 
-I am currently working on a seemless integration of coupled biophysical & market models. The goal is to provide expected wood-market trajectories in mainland France and french overseas territories under climate changes scenarios.
+I am currently working on a seamless coupling method of biophysical & market models. The goal is to provide expected wood-market trajectories in mainland France and french overseas territories under climate changes scenarios.
 
 More info at: https://guillaume-salzet.netlify.app/
 
